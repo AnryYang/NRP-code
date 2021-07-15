@@ -1,3 +1,6 @@
+## Update
+An early version of this code has a bug that makes it incorrectly processes undirected graphs. This bug is rectified in the current version.
+
 ## Layout
 1. data
 2. algos
